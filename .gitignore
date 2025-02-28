@@ -1,0 +1,5 @@
+myenvi/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
