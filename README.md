@@ -1,29 +1,29 @@
-# Predicția Riscului De Cancer Tiroidian
+# Thyroid Cancer Risk Prediction
 
-## Prezentare Generală
+## Overview
 
-Aceasta este o aplicație de predicție a riscului de cancer tiroidian, dezvoltată cu ajutorul învățării automate pe baza unui set de date, care cuprinde 212.691 de statistici legate de factorii de risc pentru cancerul tiroidian. Include date demografice, istoricul clinic, stilul de viață și gradele cheie ale hormonilor tiroidieni. Utilizatorul poate folosi această aplicație prin intermediul unei interfațe interactive implementată cu Streamlit.
+This is a machine learning application designed to predict thyroid cancer risk based on a comprehensive dataset containing 212,691 records of risk factor statistics. The dataset includes demographic data, clinical history, lifestyle factors, and key thyroid hormone levels. Users can interact with the system through an intuitive, interactive interface implemented with Streamlit.
 
-## Caracteristici
+## Features
 
-* Utilizează datele pacienților pentru a estima probabilitatea de risc.
-* Antrenează și testează modele de învățare automată pentru predicția riscului de cancer tiroidian.
-* Oferă o interfață web interactivă și ușor de utilizat cu ajutorul Streamlit.
-* Rularea modelului în timp real pentru o evaluare rapidă.
+* Risk Probability Estimation: Uses patient data to estimate the likelihood of thyroid cancer risk.
+* ML Model Training: Trains and tests machine learning models specifically for thyroid cancer prediction.
+* Interactive UI: Provides a user-friendly and responsive web interface using Streamlit.
+* Real-time Inference: Fast model execution for immediate risk assessment.
 
-## Tehnologii Utilizate
+## Technologies Used
 
-* Python - Limbajul principal de programare
-* Scikit-learn - Modelul Machine Learning
-* Streamlit - Crearea Interfeței Web
-* Pandas, NumPy - Procesarea datelor
-* Matplotlib, Seaborn - Vizualizarea datelor
+* Python: Core programming language
+* Scikit-learn: Machine Learning model development
+* Streamlit: Web interface and deployment
+* Pandas & NumPy: Data processing and manipulation
+* Matplotlib & Seaborn: Data visualization
 
-## Interfața Web
+## Web Interface
 
 <img src="interfetele Web/app.png" width="1000" height="550">
 
-## Utilizare și Instalare
+## Usage and Installation
 
 ``` bash
 
